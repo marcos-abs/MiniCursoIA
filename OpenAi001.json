@@ -1,0 +1,14 @@
+{
+  "pesquisa_operacional": {
+    "dados": [
+      {"id": "H", "Hrs_sono": 3, "Nota": 60},
+      {"id": "G", "Hrs_sono": 6, "Nota": 75},
+      {"id": "F", "Hrs_sono": 4, "Nota": 65},
+      {"id": "E", "Hrs_sono": 9, "Nota": 88},
+      {"id": "D", "Hrs_sono": 5, "Nota": 70},
+      {"id": "C", "Hrs_sono": 7, "Nota": 82},
+      {"id": "B", "Hrs_sono": 6, "Nota": 78},
+      {"id": "A", "Hrs_sono": 8, "Nota": 85}
+    ]
+  }
+}
