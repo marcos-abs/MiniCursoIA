@@ -1,0 +1,46 @@
+{
+    "pesquisa_operacional": {
+        "resultados": [
+            {
+                "id": "A",
+                "horas_sono": 8,
+                "nota": 85
+            },
+            {
+                "id": "B",
+                "horas_sono": 6,
+                "nota": 78
+            },
+            {
+                "id": "C",
+                "horas_sono": 7,
+                "nota": 82
+            },
+            {
+                "id": "D",
+                "horas_sono": 5,
+                "nota": 70
+            },
+            {
+                "id": "E",
+                "horas_sono": 9,
+                "nota": 88
+            },
+            {
+                "id": "F",
+                "horas_sono": 4,
+                "nota": 65
+            },
+            {
+                "id": "G",
+                "horas_sono": 6,
+                "nota": 75
+            },
+            {
+                "id": "H",
+                "horas_sono": 3,
+                "nota": 60
+            }
+        ]
+    }
+}
