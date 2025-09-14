@@ -1,3 +1,4 @@
+# Fonte: https://www.perplexity.ai/search/voce-e-um-especialista-em-pyth-4_Tadqk5QdKQVGdyh_v0AQ?0=d#0
 import plotly.graph_objects as go
 
 # Data

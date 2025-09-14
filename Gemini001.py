@@ -1,3 +1,4 @@
+# Fonte: https://g.co/gemini/share/cc16d89b33a0
 import json
 import matplotlib.pyplot as plt
 

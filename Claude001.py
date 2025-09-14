@@ -1,3 +1,4 @@
+# Fonte: https://claude.ai/share/405d4d61-6311-40dc-81ca-fda8d074a5e8
 import json
 import matplotlib.pyplot as plt
 import numpy as np
