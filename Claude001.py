@@ -44,7 +44,7 @@ dados_json = {
 }
 
 # Salvando JSON
-with open('analise_sono_notas.json', 'w', encoding='utf-8') as f:
+with open('Claude001.json', 'w', encoding='utf-8') as f:
     json.dump(dados_json, f, indent=2, ensure_ascii=False)
 
 print("JSON gerado:")

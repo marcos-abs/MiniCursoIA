@@ -33,6 +33,11 @@ json_output = {
 # Convertendo o dicionário Python para uma string JSON formatada
 json_string = json.dumps(json_output, indent=4, ensure_ascii=False)
 
+# Salvando JSON
+with open('Gemini001.json', 'w', encoding='utf-8') as f:
+    json.dump(json_output, f, indent=2, ensure_ascii=False)
+
+
 print("--- JSON Gerado ---")
 print(json_string)
 
